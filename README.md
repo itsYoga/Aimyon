@@ -27,8 +27,8 @@ The project features:
 
 <p align="center">
   <img src="assets/Screenshot1.png" width="30%" alt="Main Menu">
-  <img src="assets/Screenshot2.png" width="30%" alt="Game Board">
-  <img src="assets/Screenshot3.png" width="30%" alt="Score Screen">
+  <img src="assets/Screenshot2.png" width="30%" alt="Music">
+  <img src="assets/Screenshot3.png" width="30%" alt="Aimyon">
 </p>
 
 ## 📁 Project Structure
