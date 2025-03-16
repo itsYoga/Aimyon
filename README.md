@@ -22,6 +22,14 @@ The project features:
   - `url_launcher` for launching URLs.  
   - `google_maps_flutter` for potential map integration.  
   - `flutter_launcher_icons` for custom app icon generation.
+  
+## Screenshots
+
+<p align="center">
+  <img src="assets/Screenshot1.png" width="30%" alt="Main Menu">
+  <img src="assets/Screenshot2.png" width="30%" alt="Game Board">
+  <img src="assets/Screenshot3.png" width="30%" alt="Score Screen">
+</p>
 
 ## 📁 Project Structure
 
