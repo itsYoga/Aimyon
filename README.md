@@ -71,11 +71,27 @@ aimyon_project/
    flutter pub get
    ```
 
-3. **Run the App
+3. **Run the App**
 
 Run the following command to start the app on an emulator or connected device:
 
 ```bash
 flutter run
 ```
+## 🎨 Customization
 
+### 📂 Assets  
+Update the images and icons in the `assets/` folder. Make sure to declare them in `pubspec.yaml`.
+
+### 📜 Data  
+Modify the sample data in `MusicData` to change album, release, and concert details.
+
+### 🎭 UI & Animations  
+Customize widget styles, animations, and transitions as needed.
+
+### 📱 App Icon  
+Use the `flutter_launcher_icons` package to change the app icon.  
+Update the `flutter_icons` section in `pubspec.yaml` and run:
+
+```bash
+flutter pub run flutter_launcher_icons:main
